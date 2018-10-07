@@ -9,7 +9,7 @@ project directories.
 
 ## Sessions
 
-* [Session 01](#Session01)
+* [Session 01](Session01.md)
 
 ## Original source
 
