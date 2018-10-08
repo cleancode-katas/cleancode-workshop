@@ -1,4 +1,4 @@
-# Clean Code Workshop Script
+# Clean Code Workshop Session 01
 
 ## The Programmer's Oath
 
@@ -96,34 +96,7 @@ I Promise that, to the best of my ability and judgement:
 
 [Link](https://github.com/cleancode-katas/cleancode-kata-primeprinter)
 
-### What should a function do
 
-* One thing
-* One abstract thing, do it well and do it only
-* in both katas we seperated functions
-* into different level of abstractions
-
-### How to make function do one thing
-
-* Extract till you drop
-* the consequence is our functions will all be 4 to 5 lines long
-
-### Clean Code Kata - VideoStore
-
-[Link](https://github.com/cleancode-katas/cleancode-kata-videostore)
-
-### Summary
-
-* First Rule of functions they are small
-* second rule they are smaller than that
-* lots of well named functions will save lots of time
-* they act as sign posts navigate through code
-* most of us do not have to worry about efficiency of call stack
-* making functions small will save us and all
-* classes hide in long functions
-* keep functions small to properly partition
-* functions do one thing
-* to make sure extract till you drop
 
 ## Original source
 
