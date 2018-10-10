@@ -11,6 +11,7 @@ project directories.
 
 * [Session 01](Session01.md)
 * [Session 02](Session02.md)
+* [Session 03](Session03.md)
 
 ## Original source
 
